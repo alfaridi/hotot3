@@ -1,2 +1,4 @@
-hotot3
-======
+TOTOH
+=====
+
+A twitter client forked from Hotot3.
